@@ -1,0 +1,6 @@
+rootProject.name = 'FileServiceHub'
+
+include 'file-processing-service'
+include 'rule-management-service'
+include 'logging-service'
+include 'api-gateway'

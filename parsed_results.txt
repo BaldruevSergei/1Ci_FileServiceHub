@@ -1,0 +1,417 @@
+Original String: 			MessageString = NStr("en = 'EXTERNAL CONNECTION: %1'; ru = 'ВНЕШНЕЕ СОЕДИНЕНИЕ: %1';vi = 'KẾT NỐI NGOÀI: %1';ro = 'CONEXIUNEA EXTERNĂ: %1'");
+Translations: {ru=ВНЕШНЕЕ СОЕДИНЕНИЕ: %1, vi=KẾT NỐI NGOÀI: %1, en=EXTERNAL CONNECTION: %1, ro=CONEXIUNEA EXTERNĂ: %1}
+
+Original String: 				Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 				Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 				Raise NStr("en = 'Errors occurred when analyzing data.'; ru = 'Возникли ошибки при анализе данных.';vi = 'Đã xuất hiện lỗi khi phân tích dữ liệu.';ro = 'Au apărut erori la analizarea datelor.'");
+Translations: {ru=Возникли ошибки при анализе данных., vi=Đã xuất hiện lỗi khi phân tích dữ liệu., en=Errors occurred when analyzing data., ro=Au apărut erori la analizarea datelor.}
+
+Original String: 			WriteInformationAboutErrorConversionHandlers(22, ErrorDescription(), NStr("en = 'BeforeDataImport (Conversion)'; ru = 'ПередЗагрузкойДанных (конвертация)';vi = 'BeforeDataImport (chuyển đổi)';ro = 'BeforeDataImport (conversie)'"));
+Translations: {ru=ПередЗагрузкойДанных (конвертация), vi=BeforeDataImport (chuyển đổi), en=BeforeDataImport (Conversion), ro=BeforeDataImport (conversie)}
+
+Original String: 				WriteInformationAboutErrorConversionHandlers(23, ErrorDescription(), NStr("en = 'AfterDataImport (conversion)'; ru = 'ПослеЗагрузкиДанных (конвертация)';vi = 'AfterDataImport (chuyển đổi)';ro = 'AfterDataImport (conversie)'"));
+Translations: {ru=ПослеЗагрузкиДанных (конвертация), vi=AfterDataImport (chuyển đổi), en=AfterDataImport (conversion), ro=AfterDataImport (conversie)}
+
+Original String: 		ErrorMessageString = NStr("en = 'Attempting to change shared data (%1) in split session.'; ru = 'Попытка изменения неразделенных данных (%1) в разделенном сеансе.';vi = 'Thử thay đổi dữ liệu chưa chia tách (%1) trong phiên làm việc đã chia tách.';ro = 'Încercarea de a schimba datele partajate (%1) în sesiunea separată.'");
+Translations: {ru=Попытка изменения неразделенных данных (%1) в разделенном сеансе., vi=Thử thay đổi dữ liệu chưa chia tách (%1) trong phiên làm việc đã chia tách., en=Attempting to change shared data (%1) in split session., ro=Încercarea de a schimba datele partajate (%1) în sesiunea separată.}
+
+Original String: 		NameActions = ?(GetRefNodeOnly, NStr("en = 'Conversion of reference to object'; ru = 'Конвертация ссылки на объект';vi = 'Chuyển đổi tham chiếu đến đối tượng';ro = 'Conversia referinței la obiect'"), NStr("en = 'Object conversion'; ru = 'Конвертация объекта';vi = 'Chuyển đổi đối tượng';ro = 'Conversia obiectelor'"));
+Translations: {ru=Конвертация ссылки на объект, vi=Chuyển đổi tham chiếu đến đối tượng, en=Conversion of reference to object, ro=Conversia referinței la obiect}
+
+Original String: 		MessageText = NStr("en = '[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)'; ru = '[ИмяДействия]: [Объект]([ТипОбъекта]), ПКО: [ПКО](НаименованиеПКО)';vi = '[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)';ro = '[NameActions]: [Obiect] ([ObjectType]), OCR: [OCR] (OCRDescription)'");
+Translations: {ru=[ИмяДействия]: [Объект]([ТипОбъекта]), ПКО: [ПКО](НаименованиеПКО), vi=[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription), en=[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription), ro=[NameActions]: [Obiect] ([ObjectType]), OCR: [OCR] (OCRDescription)}
+
+Original String: 			WriteInformationAboutOCRHandlerErrorDump(64, ErrorDescription(), OCR, Source, NStr("en = 'BeforeObjectConversion (global)'; ru = 'ПередКонвертациейОбъекта (глобальный)';vi = 'BeforeObjectConversion (toàn cục)';ro = 'BeforeObjectConversion (la nivel mondial)'"));
+Translations: {ru=ПередКонвертациейОбъекта (глобальный), vi=BeforeObjectConversion (toàn cục), en=BeforeObjectConversion (global), ro=BeforeObjectConversion (la nivel mondial)}
+
+Original String: 			MessageString = NStr("en = 'EXTERNAL CONNECTION: %1'; ru = 'ВНЕШНЕЕ СОЕДИНЕНИЕ: %1';vi = 'KẾT NỐI NGOÀI: %1';ro = 'CONEXIUNEA EXTERNĂ: %1'");
+Translations: {ru=ВНЕШНЕЕ СОЕДИНЕНИЕ: %1, vi=KẾT NỐI NGOÀI: %1, en=EXTERNAL CONNECTION: %1, ro=CONEXIUNEA EXTERNĂ: %1}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 			Raise NStr("en = 'Errors occurred when importing data exchange rules.'; ru = 'При загрузке правил обмена данными возникли ошибки.';vi = 'Khi kết nhập quy tắc trao đổi dữ liệu đã nảy sinh lỗi.';ro = 'Au apărut erori la importul regulilor de schimb de date.'");
+Translations: {ru=При загрузке правил обмена данными возникли ошибки., vi=Khi kết nhập quy tắc trao đổi dữ liệu đã nảy sinh lỗi., en=Errors occurred when importing data exchange rules., ro=Au apărut erori la importul regulilor de schimb de date.}
+
+Original String: 			Raise WriteInformationAboutErrorConversionHandlers(22, ErrorDescription(), NStr("en = 'BeforeDataImport (Conversion)'; ru = 'ПередЗагрузкойДанных (конвертация)';vi = 'BeforeDataImport (chuyển đổi)';ro = 'BeforeDataImport (conversie)'"));
+Translations: {ru=ПередЗагрузкойДанных (конвертация), vi=BeforeDataImport (chuyển đổi), en=BeforeDataImport (Conversion), ro=BeforeDataImport (conversie)}
+
+Original String: 			Raise NStr("en = 'Cancel importing exchange message in the BeforeDataImport handler (conversion).'; ru = 'Отказ от загрузки сообщения обмена в обработчике ПередЗагрузкойДанных (конвертация).';vi = 'Từ chối kết nhập thông điệp trao đổi trong hàm sự kiện BeforeDataImport (chuyển đổi).';ro = 'Anulați importul mesajului de schimb în handler BeforeDataImport (conversie).'");
+Translations: {ru=Отказ от загрузки сообщения обмена в обработчике ПередЗагрузкойДанных (конвертация)., vi=Từ chối kết nhập thông điệp trao đổi trong hàm sự kiện BeforeDataImport (chuyển đổi)., en=Cancel importing exchange message in the BeforeDataImport handler (conversion)., ro=Anulați importul mesajului de schimb în handler BeforeDataImport (conversie).}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 				Raise NStr("en = 'Errors occurred when importing information on data types.'; ru = 'При загрузке информации о типах данных возникли ошибки.';vi = 'Khi kết nhập thông tin về kiểu dữ liệu, đã nảy sinh lỗi.';ro = 'Au apărut erori la importul de informații privind tipurile de date.'");
+Translations: {ru=При загрузке информации о типах данных возникли ошибки., vi=Khi kết nhập thông tin về kiểu dữ liệu, đã nảy sinh lỗi., en=Errors occurred when importing information on data types., ro=Au apărut erori la importul de informații privind tipurile de date.}
+
+Original String: 			Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 					Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 			Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Lock of data receipt cannot be set in an active transaction.'; ru = 'Блокировка получения данных не может быть установлена в активной транзакции.';vi = 'Không thể khóa việc nhận dữ liệu ở giao tác hiện hoạt.';ro = 'Blocarea primirii datelor nu poate fi setată într-o tranzacție activă.'");
+Translations: {ru=Блокировка получения данных не может быть установлена в активной транзакции., vi=Không thể khóa việc nhận dữ liệu ở giao tác hiện hoạt., en=Lock of data receipt cannot be set in an active transaction., ro=Blocarea primirii datelor nu poate fi setată într-o tranzacție activă.}
+
+Original String: 			Raise WriteInformationAboutErrorConversionHandlers(23, ErrorDescription(), NStr("en = 'AfterDataImport (conversion)'; ru = 'ПослеЗагрузкиДанных (конвертация)';vi = 'AfterDataImport (chuyển đổi)';ro = 'AfterDataImport (conversie)'"));
+Translations: {ru=ПослеЗагрузкиДанных (конвертация), vi=AfterDataImport (chuyển đổi), en=AfterDataImport (conversion), ro=AfterDataImport (conversie)}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 		Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 				MessageString = NStr("en = 'Decline exchange message import in handler AfterParametersImport (conversion) due to: %1'; ru = 'Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация) по причине: %1';vi = 'Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterParametersImport (chuyển đổi) theo nguyên nhân: %1';ro = 'Refuză importul mesajului de schimb în handler AfterParametersImport (conversie) din cauza: %1'");
+Translations: {ru=Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация) по причине: %1, vi=Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterParametersImport (chuyển đổi) theo nguyên nhân: %1, en=Decline exchange message import in handler AfterParametersImport (conversion) due to: %1, ro=Refuză importul mesajului de schimb în handler AfterParametersImport (conversie) din cauza: %1}
+
+Original String: 				Raise NStr("en = 'Cancel importing exchange message in the AfterImportOfParameters handler (conversion).'; ru = 'Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация).';vi = 'Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterImportOfParameters (chuyển đổi).';ro = 'Anulați importul mesajului de schimb în instrumentul handler AfterImportOfParameters (conversie).'");
+Translations: {ru=Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация)., vi=Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterImportOfParameters (chuyển đổi)., en=Cancel importing exchange message in the AfterImportOfParameters handler (conversion)., ro=Anulați importul mesajului de schimb în instrumentul handler AfterImportOfParameters (conversie).}
+
+Original String: 			ErrorMessage = NStr("en = 'Access right violation: %1'; ru = 'Нарушение прав доступа: %1';vi = 'Vi phạm quyền truy cập: %1';ro = 'Încălcarea dreptului de acces: %1'");
+Translations: {ru=Нарушение прав доступа: %1, vi=Vi phạm quyền truy cập: %1, en=Access right violation: %1, ro=Încălcarea dreptului de acces: %1}
+
+Original String: 			ErrorMessage = NStr("en = 'Operation is not executed: %1 %2'; ru = 'Операция не выполнена: %1 %2';vi = 'Đã thực hiện giao dịch: %1 %2';ro = 'Operația nu este executată: %1 %2'");
+Translations: {ru=Операция не выполнена: %1 %2, vi=Đã thực hiện giao dịch: %1 %2, en=Operation is not executed: %1 %2, ro=Operația nu este executată: %1 %2}
+
+Original String: 				ObjectType, Undefined, NStr("en = 'Sequence of search fields'; ru = 'Последовательность полей поиска';vi = 'Chuỗi nối tiếp các trường tìm kiếm';ro = 'Secvența câmpurilor de căutare'"));
+Translations: {ru=Последовательность полей поиска, vi=Chuỗi nối tiếp các trường tìm kiếm, en=Sequence of search fields, ro=Secvența câmpurilor de căutare}
+
+Original String: 		Text = NStr("en = 'Tabular section name: %1'; ru = 'Имя табличной части: %1';vi = 'Tên phần bảng: %1';ro = 'Nume secțiune de tabel:  %1'");
+Translations: {ru=Имя табличной части: %1, vi=Tên phần bảng: %1, en=Tabular section name: %1, ro=Nume secțiune de tabel:  %1}
+
+Original String: 		MessageString = NStr("en = 'Import object No. %1'; ru = 'Загрузка объекта № %1';vi = 'Kết nhập đối tượng số %1';ro = 'Import obiecte Nr. %1'");
+Translations: {ru=Загрузка объекта № %1, vi=Kết nhập đối tượng số %1, en=Import object No. %1, ro=Import obiecte Nr. %1}
+
+Original String: 			ObjectType, Undefined, NStr("en = 'BeforeObjectImport (global)'; ru = 'ПередЗагрузкойОбъекта (глобальный)';vi = 'BeforeObjectImport (toàn cục)';ro = 'BeforeObjectImport (global)'"));
+Translations: {ru=ПередЗагрузкойОбъекта (глобальный), vi=BeforeObjectImport (toàn cục), en=BeforeObjectImport (global), ro=BeforeObjectImport (global)}
+
+Original String: 				ObjectType, Undefined, NStr("en = 'BeforeObjectImport (global)'; ru = 'ПередЗагрузкойОбъекта (глобальный)';vi = 'BeforeObjectImport (toàn cục)';ro = 'BeforeObjectImport (global)'"));				
+Translations: {ru=ПередЗагрузкойОбъекта (глобальный), vi=BeforeObjectImport (toàn cục), en=BeforeObjectImport (global), ro=BeforeObjectImport (global)}
+
+Original String: 						ObjectType, Object, NStr("en = 'AftertObjectImport (global)'; ru = 'ПослеЗагрузкиОбъекта (глобальный)';vi = 'AftertObjectImport (toàn cục)';ro = 'AftertObjectImport (global)'"));
+Translations: {ru=ПослеЗагрузкиОбъекта (глобальный), vi=AftertObjectImport (toàn cục), en=AftertObjectImport (global), ro=AftertObjectImport (global)}
+
+Original String: 						MessageString = NStr("en = 'An error occurred while writing document: %1 Error description: %2'; ru = 'Ошибка при записи документа: %1. Описание ошибки: %2';vi = 'Lỗi khi ghi chứng từ: %1. Mô tả lỗi: %2';ro = 'A apărut o eroare la scrierea documentului: %1 Descrierea erorii: %2'");
+Translations: {ru=Ошибка при записи документа: %1. Описание ошибки: %2, vi=Lỗi khi ghi chứng từ: %1. Mô tả lỗi: %2, en=An error occurred while writing document: %1 Error description: %2, ro=A apărut o eroare la scrierea documentului: %1 Descrierea erorii: %2}
+
+Original String: 		EventName = NStr("en = 'ObjectExport: %1'; ru = 'ВыгрузкаОбъекта: %1';vi = 'ObjectExport: %1';ro = 'ExportObiect: %1'");
+Translations: {ru=ВыгрузкаОбъекта: %1, vi=ObjectExport: %1, en=ObjectExport: %1, ro=ExportObiect: %1}
+
+Original String: 			WriteInformationAboutErrorDDRHandlers(65, ErrorDescription(), Rule.Name, NStr("en = 'BeforeExportSelectionObject (global)'; ru = 'ПередВыгрузкойОбъектаВыборки (глобальный)';vi = 'BeforeExportSelectionObject (toàn cục)';ro = 'BeforeExportSelectionObject (global)'"), Object);
+Translations: {ru=ПередВыгрузкойОбъектаВыборки (глобальный), vi=BeforeExportSelectionObject (toàn cục), en=BeforeExportSelectionObject (global), ro=BeforeExportSelectionObject (global)}
+
+Original String: 			WriteInformationAboutErrorDDRHandlers(69, ErrorDescription(), Rule.Name, NStr("en = 'AfterSelectionObjectExport (Global)'; ru = 'ПослеВыгрузкиОбъектаВыборки (глобальный)';vi = 'AfterSelectionObjectExport (toàn cục)';ro = 'AfterSelectionObjectExport (Global)'"), Object);
+Translations: {ru=ПослеВыгрузкиОбъектаВыборки (глобальный), vi=AfterSelectionObjectExport (toàn cục), en=AfterSelectionObjectExport (Global), ro=AfterSelectionObjectExport (Global)}
+
+Original String: 		MessageString = NStr("en = 'DATA EXPORT RULE: %1 (%2)'; ru = 'ПРАВИЛО ВЫГРУЗКИ ДАННЫХ: %1 (%2)';vi = 'QUY TẮC KẾT XUẤT DỮ LIỆU: %1 (%2)';ro = 'REGULA DE EXPORT A DATELOR: %1 (%2)'");
+Translations: {ru=ПРАВИЛО ВЫГРУЗКИ ДАННЫХ: %1 (%2), vi=QUY TẮC KẾT XUẤT DỮ LIỆU: %1 (%2), en=DATA EXPORT RULE: %1 (%2), ro=REGULA DE EXPORT A DATELOR: %1 (%2)}
+
+Original String: 				ErrorMessageString = WriteInformationAboutErrorConversionHandlers(76, ErrorDescription(), NStr("en = 'BeforeSendingInformationAboutDeletion (conversion)'; ru = 'ПередОтправкойИнформацииОбУдалении (конвертация)';vi = 'BeforeSendingInformationAboutDeletion (chuyển đổi)';ro = 'ÎnainteaTrimiteriiInformațiilorDespreȘtergere (conversie)'"));
+Translations: {ru=ПередОтправкойИнформацииОбУдалении (конвертация), vi=BeforeSendingInformationAboutDeletion (chuyển đổi), en=BeforeSendingInformationAboutDeletion (conversion), ro=ÎnainteaTrimiteriiInformațiilorDespreȘtergere (conversie)}
+
+Original String: 			MessageString = NStr("en = 'Object type is undefined: %1'; ru = 'Тип объекта не определен: %1';vi = 'Chưa xác định kiểu đối tượng: %1';ro = 'Tipul de obiect este nedefinit: %1'");
+Translations: {ru=Тип объекта не определен: %1, vi=Chưa xác định kiểu đối tượng: %1, en=Object type is undefined: %1, ro=Tipul de obiect este nedefinit: %1}
+
+Original String: 		InfoString = NStr("en = 'Conversion rules of correspondent (%1) from %2'; ru = 'Правила конвертации корреспондента (%1) от %2';vi = 'Quy tắc chuyển đổi nơi (%1) từ %2';ro = 'Normele de conversie ale corespondentului (%1) de la %2'");
+Translations: {ru=Правила конвертации корреспондента (%1) от %2, vi=Quy tắc chuyển đổi nơi (%1) từ %2, en=Conversion rules of correspondent (%1) from %2, ro=Normele de conversie ale corespondentului (%1) de la %2}
+
+Original String: 		InfoString = NStr("en = 'Conversion rules of this infobase (%1) from %2'; ru = 'Правила конвертации этой информационной базы (%1) от %2';vi = 'Quy tắc chuyển đổi của cơ sở thông tin này (%1) từ %2';ro = 'Regulile de conversie ale acestei baze de date (%1) de la %2'");
+Translations: {ru=Правила конвертации этой информационной базы (%1) от %2, vi=Quy tắc chuyển đổi của cơ sở thông tin này (%1) từ %2, en=Conversion rules of this infobase (%1) from %2, ro=Regulile de conversie ale acestei baze de date (%1) de la %2}
+
+Original String: 			ErrorMessageString = WriteInformationAboutErrorConversionHandlers(75, ErrorDescription(), NStr("en = 'AfterImportOfExchangeRules (conversion)'; ru = 'ПослеЗагрузкиПравилОбмена (конвертация)';vi = 'AfterImportOfExchangeRules (chuyển đổi)';ro = 'AfterImportOfExchangeRules (conversie)'"));
+Translations: {ru=ПослеЗагрузкиПравилОбмена (конвертация), vi=AfterImportOfExchangeRules (chuyển đổi), en=AfterImportOfExchangeRules (conversion), ro=AfterImportOfExchangeRules (conversie)}
+
+Original String: 			ErrorMessageString = WriteInformationAboutErrorConversionHandlers(77, ErrorDescription(), NStr("en = 'WhenGettingInformationAboutDeleting (Conversion)'; ru = 'ПриПолученииИнформацииОбУдалении (конвертация)';vi = 'WhenGettingInformationAboutDeleting (chuyển đổi)';ro = 'WhenGettingInformationAboutDeleting (Conversie)'"));
+Translations: {ru=ПриПолученииИнформацииОбУдалении (конвертация), vi=WhenGettingInformationAboutDeleting (chuyển đổi), en=WhenGettingInformationAboutDeleting (Conversion), ro=WhenGettingInformationAboutDeleting (Conversie)}
+
+Original String: 				Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 				Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 			Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 			Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 								TableRow[Column.Name] = NStr("en = 'Deleting object'; ru = 'Удаление объекта';vi = 'Xóa đối tượng';ro = 'Ștergerea obiectului'");
+Translations: {ru=Удаление объекта, vi=Xóa đối tượng, en=Deleting object, ro=Ștergerea obiectului}
+
+Original String: 			Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 			Raise NStr("en = 'Errors occurred when importing data.'; ru = 'Возникли ошибки при загрузке данных.';vi = 'Đã xuất hiện lỗi khi kết nhập dữ liệu.';ro = 'Au apărut erori la importul datelor.'");
+Translations: {ru=Возникли ошибки при загрузке данных., vi=Đã xuất hiện lỗi khi kết nhập dữ liệu., en=Errors occurred when importing data., ro=Au apărut erori la importul datelor.}
+
+Original String: 			Raise NStr("en = 'Error in exchange message format.'; ru = 'Ошибка формата сообщения обмена.';vi = 'Lỗi định dạng thông báo trao đổi.';ro = 'Eroare în formatul mesajului de schimb.'");
+Translations: {ru=Ошибка формата сообщения обмена., vi=Lỗi định dạng thông báo trao đổi., en=Error in exchange message format., ro=Eroare în formatul mesajului de schimb.}
+
+Original String: 			Raise NStr("en = 'Errors occurred when analyzing data.'; ru = 'Возникли ошибки при анализе данных.';vi = 'Đã xuất hiện lỗi khi phân tích dữ liệu.';ro = 'Au apărut erori la analizarea datelor.'");
+Translations: {ru=Возникли ошибки при анализе данных., vi=Đã xuất hiện lỗi khi phân tích dữ liệu., en=Errors occurred when analyzing data., ro=Au apărut erori la analizarea datelor.}
+
+Original String: 							MessageString = NStr("en = 'Data import was canceled as: %1'; ru = 'Загрузка данных отменена по причине: %1';vi = 'Đã hủy bỏ kết nhập dữ liệu theo nguyên nhân: %1';ro = 'Importul de date a fost anulat ca: %1'");
+Translations: {ru=Загрузка данных отменена по причине: %1, vi=Đã hủy bỏ kết nhập dữ liệu theo nguyên nhân: %1, en=Data import was canceled as: %1, ro=Importul de date a fost anulat ca: %1}
+
+Original String: 							Raise NStr("en = 'Data import is canceled'; ru = 'Загрузка данных отменена';vi = 'Đã hủy bỏ kết nhập dữ liệu';ro = 'Import de date este anulat'");
+Translations: {ru=Загрузка данных отменена, vi=Đã hủy bỏ kết nhập dữ liệu, en=Data import is canceled, ro=Import de date este anulat}
+
+Original String: 		MessageString = NStr("en = 'Exchange node for data import is not found. Exchange plan: %1, Code: %2'; ru = 'Не найден узел обмена для загрузки данных. План обмена: %1, Код: %2';vi = 'Chưa tìm thấy nút trao đổi để kết nhập dữ liệu. Sơ đồ trao đổi: %1, Mã: %2';ro = 'Nodul de schimb pentru importul de date nu a fost găsit. Planul de schimb: %1, Cod: %2'");
+Translations: {ru=Не найден узел обмена для загрузки данных. План обмена: %1, Код: %2, vi=Chưa tìm thấy nút trao đổi để kết nhập dữ liệu. Sơ đồ trao đổi: %1, Mã: %2, en=Exchange node for data import is not found. Exchange plan: %1, Code: %2, ro=Nodul de schimb pentru importul de date nu a fost găsit. Planul de schimb: %1, Cod: %2}
+
+Original String: 			Raise NStr("en = 'Exchange message was previously received'; ru = 'Сообщение обмена было принято ранее';vi = 'Đã tiếp nhận thông điệp trao đổi trước đây';ro = 'Mesajul de schimb a fost primit anterior'");
+Translations: {ru=Сообщение обмена было принято ранее, vi=Đã tiếp nhận thông điệp trao đổi trước đây, en=Exchange message was previously received, ro=Mesajul de schimb a fost primit anterior}
+
+Original String: 				Raise NStr("en = 'Deletion of the data change registration cannot be completed in an active transaction.'; ru = 'Удаление регистрации изменений данных не может быть выполнено в активной транзакции.';vi = 'Không thể thực hiện xóa nhật ký thay đổi dữ liệu ở giao tác hiện thời.';ro = 'Ștergerea înregistrării modificărilor de date nu poate fi finalizată într-o tranzacție activă.'");
+Translations: {ru=Удаление регистрации изменений данных не может быть выполнено в активной транзакции., vi=Không thể thực hiện xóa nhật ký thay đổi dữ liệu ở giao tác hiện thời., en=Deletion of the data change registration cannot be completed in an active transaction., ro=Ștergerea înregistrării modificărilor de date nu poate fi finalizată într-o tranzacție activă.}
+
+Original String: 			Raise WriteInformationAboutErrorConversionHandlers(176, ErrorDescription(), NStr("en = 'AfterReceivingInformationAboutExchangeNodes (conversion)'; ru = 'ПослеПолученияИнформацииОбУзлахОбмена (конвертация)';vi = 'AfterReceivingInformationAboutExchangeNodes (chuyển đổi)';ro = 'AfterReceivingInformationAboutExchangeNodes (conversie)'"));
+Translations: {ru=ПослеПолученияИнформацииОбУзлахОбмена (конвертация), vi=AfterReceivingInformationAboutExchangeNodes (chuyển đổi), en=AfterReceivingInformationAboutExchangeNodes (conversion), ro=AfterReceivingInformationAboutExchangeNodes (conversie)}
+
+Original String: 				ErrorDescription = NStr("en = 'An error occurred when checking the attribute population'; ru = 'Ошибка проверки заполнения реквизитов';vi = 'Lỗi kiểm tra việc điền mục tin';ro = 'A apărut o eroare la verificarea completării atributelor'");
+Translations: {ru=Ошибка проверки заполнения реквизитов, vi=Lỗi kiểm tra việc điền mục tin, en=An error occurred when checking the attribute population, ro=A apărut o eroare la verificarea completării atributelor}
+
+Original String: 			WriteInformationAboutErrorConversionHandlers(62, ErrorDescription(), NStr("en = 'BeforeDataExport (conversion)'; ru = 'ПередВыгрузкойДанных (конвертация)';vi = 'BeforeDataExport (chuyển đổi)';ro = 'BeforeDataExport (conversie)'"));
+Translations: {ru=ПередВыгрузкойДанных (конвертация), vi=BeforeDataExport (chuyển đổi), en=BeforeDataExport (conversion), ro=BeforeDataExport (conversie)}
+
+Original String: 			WriteInformationAboutErrorConversionHandlers(63, ErrorDescription(), NStr("en = 'AfterDataExport (conversion)'; ru = 'ПослеВыгрузкиДанных (конвертация)';vi = 'AfterDataExport (chuyển đổi)';ro = 'După depozit de date (conversie)'"));
+Translations: {ru=ПослеВыгрузкиДанных (конвертация), vi=AfterDataExport (chuyển đổi), en=AfterDataExport (conversion), ro=După depozit de date (conversie)}
+
+Original String: 			WriteInformationAboutErrorConversionHandlers(175, ErrorDescription(), NStr("en = 'BeforeReceivingChangedObjects (conversion)'; ru = 'ПередПолучениемИзмененныхОбъектов (конвертация)';vi = 'BeforeReceivingChangedObjects (chuyển đổi)';ro = 'BeforeReceivingChangedObjects (conversie)'"));
+Translations: {ru=ПередПолучениемИзмененныхОбъектов (конвертация), vi=BeforeReceivingChangedObjects (chuyển đổi), en=BeforeReceivingChangedObjects (conversion), ro=BeforeReceivingChangedObjects (conversie)}
+
+Original String: 	ErrorMessages.Insert(2,  NStr("en = 'An error occurred when unpacking an exchange file. The file is locked.'; ru = 'Ошибка распаковки файла обмена. Файл заблокирован.';vi = 'Lỗi khi giải nén tệp trao đổi. Tệp bị khóa.';ro = 'A apărut o eroare la dezarhivarea unui fișier de schimb. Fișierul este blocat.'"));
+Translations: {ru=Ошибка распаковки файла обмена. Файл заблокирован., vi=Lỗi khi giải nén tệp trao đổi. Tệp bị khóa., en=An error occurred when unpacking an exchange file. The file is locked., ro=A apărut o eroare la dezarhivarea unui fișier de schimb. Fișierul este blocat.}
+
+Original String: 	ErrorMessages.Insert(3,  NStr("en = 'The specified exchange rule file does not exist.'; ru = 'Указанный файл правил обмена не существует.';vi = 'Tệp quy tắc trao đổi đã chọn không tồn tại.';ro = 'Fișierul de reguli de schimb specificat nu există.'"));
+Translations: {ru=Указанный файл правил обмена не существует., vi=Tệp quy tắc trao đổi đã chọn không tồn tại., en=The specified exchange rule file does not exist., ro=Fișierul de reguli de schimb specificat nu există.}
+
+Original String: 	ErrorMessages.Insert(4,  NStr("en = 'An error occurred when creating COM object Msxml2.DOMDocument'; ru = 'Ошибка при создании COM-объекта Msxml2.DOMDocument';vi = 'Lỗi khi tạo đối tượng COM Msxml2.DOMDocument';ro = 'A apărut o eroare la crearea COM object Msxml2.DOMDocument'"));
+Translations: {ru=Ошибка при создании COM-объекта Msxml2.DOMDocument, vi=Lỗi khi tạo đối tượng COM Msxml2.DOMDocument, en=An error occurred when creating COM object Msxml2.DOMDocument, ro=A apărut o eroare la crearea COM object Msxml2.DOMDocument}
+
+Original String: 	ErrorMessages.Insert(5,  NStr("en = 'An error occurred when opening the exchange file'; ru = 'Ошибка открытия файла обмена';vi = 'Lỗi mở tệp trao đổi';ro = 'A apărut o eroare la deschiderea fișierului de schimb'"));
+Translations: {ru=Ошибка открытия файла обмена, vi=Lỗi mở tệp trao đổi, en=An error occurred when opening the exchange file, ro=A apărut o eroare la deschiderea fișierului de schimb}
+
+Original String: 	ErrorMessages.Insert(6,  NStr("en = 'An error occurred when importing exchange rules'; ru = 'Ошибка при загрузке правил обмена';vi = 'Lỗi khi kết nhập quy tắc trao đổi';ro = 'A apărut o eroare la importarea regulilor de schimb'"));
+Translations: {ru=Ошибка при загрузке правил обмена, vi=Lỗi khi kết nhập quy tắc trao đổi, en=An error occurred when importing exchange rules, ro=A apărut o eroare la importarea regulilor de schimb}
+
+Original String: 	ErrorMessages.Insert(7,  NStr("en = 'Error in exchange rule format'; ru = 'Ошибка формата правил обмена';vi = 'Lỗi định dạng quy tắc trao đổi';ro = 'Eroare în formatul regulii de schimb'"));
+Translations: {ru=Ошибка формата правил обмена, vi=Lỗi định dạng quy tắc trao đổi, en=Error in exchange rule format, ro=Eroare în formatul regulii de schimb}
+
+Original String: 	ErrorMessages.Insert(8,  NStr("en = 'Incorrect file name for data export'; ru = 'Не корректно указано имя файла для выгрузки данных';vi = 'Đã chỉ ra không đúng tên tệp để kết xuất dữ liệu';ro = 'Numele de fișier incorect pentru exportul de date'")); // not used
+Translations: {ru=Не корректно указано имя файла для выгрузки данных, vi=Đã chỉ ra không đúng tên tệp để kết xuất dữ liệu, en=Incorrect file name for data export, ro=Numele de fișier incorect pentru exportul de date}
+
+Original String: 	ErrorMessages.Insert(9,  NStr("en = 'Error in exchange file format'; ru = 'Ошибка формата файла обмена';vi = 'Lỗi định dạng tệp trao đổi';ro = 'Eroare în formatul fișierului de schimb'"));
+Translations: {ru=Ошибка формата файла обмена, vi=Lỗi định dạng tệp trao đổi, en=Error in exchange file format, ro=Eroare în formatul fișierului de schimb}
+
+Original String: 	ErrorMessages.Insert(10, NStr("en = 'File name for data export is not specified (Data file name)'; ru = 'Не указано имя файла для выгрузки данных (Имя файла данных)';vi = 'Chưa chỉ ra tên tệp để kết xuất dữ liệu (Tên tệp dữ liệu)';ro = 'Numele fișierului pentru exportul de date nu este specificat (numele fișierului de date)'"));
+Translations: {ru=Не указано имя файла для выгрузки данных (Имя файла данных), vi=Chưa chỉ ra tên tệp để kết xuất dữ liệu (Tên tệp dữ liệu), en=File name for data export is not specified (Data file name), ro=Numele fișierului pentru exportul de date nu este specificat (numele fișierului de date)}
+
+Original String: 	ErrorMessages.Insert(11, NStr("en = 'Link to a non-existing metadata object in the exchange rules'; ru = 'Ссылка на несуществующий объект метаданных в правилах обмена';vi = 'Tham chiếu đến đối tượng Metadata không tồn tại trong các quy tắc trao đổi';ro = 'Link la un obiect de metadate inexistent în regulile de schimb'"));
+Translations: {ru=Ссылка на несуществующий объект метаданных в правилах обмена, vi=Tham chiếu đến đối tượng Metadata không tồn tại trong các quy tắc trao đổi, en=Link to a non-existing metadata object in the exchange rules, ro=Link la un obiect de metadate inexistent în regulile de schimb}
+
+Original String: 	ErrorMessages.Insert(12, NStr("en = 'File name with exchange rules is not specified (Rule file name)'; ru = 'Не указано имя файла с правилами обмена (Имя файла правил)';vi = 'Chưa chỉ ra tên tệp với các quy tắc trao đổi (Tên tệp quy tắc)';ro = 'Numele fișierului cu reguli de schimb nu este specificat (numele fișierului de reguli)'"));
+Translations: {ru=Не указано имя файла с правилами обмена (Имя файла правил), vi=Chưa chỉ ra tên tệp với các quy tắc trao đổi (Tên tệp quy tắc), en=File name with exchange rules is not specified (Rule file name), ro=Numele fișierului cu reguli de schimb nu este specificat (numele fișierului de reguli)}
+
+Original String: 	ErrorMessages.Insert(13, NStr("en = 'An error occurred when receiving a value of the object property (by the name of the source property)'; ru = 'Ошибка получения значения свойства объекта (по имени свойства источника)';vi = 'Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính nguồn)';ro = 'A apărut o eroare la primirea unei valori a proprietății obiectului (după numele proprietății sursei)'"));
+Translations: {ru=Ошибка получения значения свойства объекта (по имени свойства источника), vi=Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính nguồn), en=An error occurred when receiving a value of the object property (by the name of the source property), ro=A apărut o eroare la primirea unei valori a proprietății obiectului (după numele proprietății sursei)}
+
+Original String: 	ErrorMessages.Insert(14, NStr("en = 'An error occurred when receiving the object property value (by the target property name)'; ru = 'Ошибка получения значения свойства объекта (по имени свойства приемника)';vi = 'Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính đích)';ro = 'A apărut o eroare la primirea valorii proprietății obiectului (după numele proprietății țintă)'"));
+Translations: {ru=Ошибка получения значения свойства объекта (по имени свойства приемника), vi=Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính đích), en=An error occurred when receiving the object property value (by the target property name), ro=A apărut o eroare la primirea valorii proprietății obiectului (după numele proprietății țintă)}
+
+Original String: 	ErrorMessages.Insert(15, NStr("en = 'File name for data import is not specified (File name for import)'; ru = 'Не указано имя файла для загрузки данных (Имя файла для загрузки)';vi = 'Chưa chỉ ra tên tệp để kết nhập dữ liệu (Tên tệp để kết nhập)';ro = 'Numele fișierului pentru importul de date nu este specificat (numele fișierului pentru import)'"));
+Translations: {ru=Не указано имя файла для загрузки данных (Имя файла для загрузки), vi=Chưa chỉ ra tên tệp để kết nhập dữ liệu (Tên tệp để kết nhập), en=File name for data import is not specified (File name for import), ro=Numele fișierului pentru importul de date nu este specificat (numele fișierului pentru import)}
+
+Original String: 	ErrorMessages.Insert(16, NStr("en = 'An error occurred while receiving value of subobject property (by source property name)'; ru = 'Ошибка получения значения свойства подчиненного объекта (по имени свойства источника)';vi = 'Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính nguồn)';ro = 'A apărut o eroare la primirea valorii proprietatii subobiectului (după numele proprietății sursă)'"));
+Translations: {ru=Ошибка получения значения свойства подчиненного объекта (по имени свойства источника), vi=Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính nguồn), en=An error occurred while receiving value of subobject property (by source property name), ro=A apărut o eroare la primirea valorii proprietatii subobiectului (după numele proprietății sursă)}
+
+Original String: 	ErrorMessages.Insert(17, NStr("en = 'An error occurred while receiving value of subobject property (by target property name)'; ru = 'Ошибка получения значения свойства подчиненного объекта (по имени свойства приемника)';vi = 'Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính đích)';ro = 'A apărut o eroare în timpul primirii valorii proprietății subiectului (după numele proprietății țintă)'"));
+Translations: {ru=Ошибка получения значения свойства подчиненного объекта (по имени свойства приемника), vi=Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính đích), en=An error occurred while receiving value of subobject property (by target property name), ro=A apărut o eroare în timpul primirii valorii proprietății subiectului (după numele proprietății țintă)}
+
+Original String: 	ErrorMessages.Insert(18, NStr("en = 'An error occurred when creating a data processor with the handler code'; ru = 'Ошибка при создании обработки с кодом обработчиков';vi = 'Lỗi khi tạo mới bộ xử lý có mã hàm sự kiện';ro = 'A apărut o eroare la crearea unui procesor de date cu codul de handler'"));
+Translations: {ru=Ошибка при создании обработки с кодом обработчиков, vi=Lỗi khi tạo mới bộ xử lý có mã hàm sự kiện, en=An error occurred when creating a data processor with the handler code, ro=A apărut o eroare la crearea unui procesor de date cu codul de handler}
+
+Original String: 	ErrorMessages.Insert(19, NStr("en = 'An error occurred in event handler BeforeObjectImport'; ru = 'Ошибка в обработчике события ПередЗагрузкойОбъекта';vi = 'Lỗi trong hàm sự kiện BeforeObjectImport';ro = 'A apărut o eroare în handler-ul evenimentului BeforeObjectImport'"));
+Translations: {ru=Ошибка в обработчике события ПередЗагрузкойОбъекта, vi=Lỗi trong hàm sự kiện BeforeObjectImport, en=An error occurred in event handler BeforeObjectImport, ro=A apărut o eroare în handler-ul evenimentului BeforeObjectImport}
+
+Original String: 	ErrorMessages.Insert(20, NStr("en = 'An error occurred in event handler OnObjectImport'; ru = 'Ошибка в обработчике события ПриЗагрузкеОбъекта';vi = 'Lỗi trong hàm sự kiện OnObjectImport';ro = 'A apărut o eroare în handler-ul evenimentului OnObjectImport'"));
+Translations: {ru=Ошибка в обработчике события ПриЗагрузкеОбъекта, vi=Lỗi trong hàm sự kiện OnObjectImport, en=An error occurred in event handler OnObjectImport, ro=A apărut o eroare în handler-ul evenimentului OnObjectImport}
+
+Original String: 	ErrorMessages.Insert(21, NStr("en = 'An error occurred in event handler AfterObjectImport'; ru = 'Ошибка в обработчике события ПослеЗагрузкиОбъекта';vi = 'Lỗi trong hàm sự kiện AfterObjectImport';ro = 'A apărut o eroare în handler-ul evenimentului AfterObjectImport'"));
+Translations: {ru=Ошибка в обработчике события ПослеЗагрузкиОбъекта, vi=Lỗi trong hàm sự kiện AfterObjectImport, en=An error occurred in event handler AfterObjectImport, ro=A apărut o eroare în handler-ul evenimentului AfterObjectImport}
+
+Original String: 	ErrorMessages.Insert(22, NStr("en = 'An error occurred in event handler BeforeDataImport (conversion)'; ru = 'Ошибка в обработчике события ПередЗагрузкойДанных (конвертация)';vi = 'Lỗi trong hàm sự kiện BeforeDataImport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului BeforeDataImport (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПередЗагрузкойДанных (конвертация), vi=Lỗi trong hàm sự kiện BeforeDataImport (chuyển đổi), en=An error occurred in event handler BeforeDataImport (conversion), ro=A apărut o eroare în handler-ul evenimentului BeforeDataImport (conversie)}
+
+Original String: 	ErrorMessages.Insert(23, NStr("en = 'An error occurred in event handler AfterDataImport (conversion)'; ru = 'Ошибка в обработчике события ПослеЗагрузкиДанных (конвертация)';vi = 'Lỗi trong hàm sự kiện AfterDataImport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului AfterDataImport (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПослеЗагрузкиДанных (конвертация), vi=Lỗi trong hàm sự kiện AfterDataImport (chuyển đổi), en=An error occurred in event handler AfterDataImport (conversion), ro=A apărut o eroare în handler-ul evenimentului AfterDataImport (conversie)}
+
+Original String: 	ErrorMessages.Insert(24, NStr("en = 'An error occurred when removing an object'; ru = 'Ошибка при удалении объекта';vi = 'Lỗi khi xóa đối tượng';ro = 'A apărut o eroare la eliminarea unui obiect'"));
+Translations: {ru=Ошибка при удалении объекта, vi=Lỗi khi xóa đối tượng, en=An error occurred when removing an object, ro=A apărut o eroare la eliminarea unui obiect}
+
+Original String: 	ErrorMessages.Insert(25, NStr("en = 'An error occurred when writing the document'; ru = 'Ошибка при записи документа';vi = 'Lỗi khi ghi chứng từ';ro = 'A apărut o eroare la scrierea documentului'"));
+Translations: {ru=Ошибка при записи документа, vi=Lỗi khi ghi chứng từ, en=An error occurred when writing the document, ro=A apărut o eroare la scrierea documentului}
+
+Original String: 	ErrorMessages.Insert(26, NStr("en = 'An error occurred when writing the object'; ru = 'Ошибка записи объекта';vi = 'Lỗi ghi đối tượng';ro = 'A apărut o eroare la scrierea obiectului'"));
+Translations: {ru=Ошибка записи объекта, vi=Lỗi ghi đối tượng, en=An error occurred when writing the object, ro=A apărut o eroare la scrierea obiectului}
+
+Original String: 	ErrorMessages.Insert(27, NStr("en = 'An error occurred in event handler BeforeProcessClearingRule'; ru = 'Ошибка в обработчике события ПередОбработкойПравилаОчистки';vi = 'Lỗi trong hàm sự kiện BeforeProcessClearingRule';ro = 'A apărut o eroare în handler-ul evenimentului BeforeProcessClearingRule'"));
+Translations: {ru=Ошибка в обработчике события ПередОбработкойПравилаОчистки, vi=Lỗi trong hàm sự kiện BeforeProcessClearingRule, en=An error occurred in event handler BeforeProcessClearingRule, ro=A apărut o eroare în handler-ul evenimentului BeforeProcessClearingRule}
+
+Original String: 	ErrorMessages.Insert(28, NStr("en = 'An error occurred in event handler AfterClearingRuleProcessing'; ru = 'Ошибка в обработчике события ПослеОбработкиПравилаОчистки';vi = 'Lỗi trong hàm sự kiện AfterClearingRuleProcessing';ro = 'A apărut o eroare în handler-ul evenimentului AfterClearingRuleProcessing '"));
+Translations: {ru=Ошибка в обработчике события ПослеОбработкиПравилаОчистки, vi=Lỗi trong hàm sự kiện AfterClearingRuleProcessing, en=An error occurred in event handler AfterClearingRuleProcessing, ro=A apărut o eroare în handler-ul evenimentului AfterClearingRuleProcessing }
+
+Original String: 	ErrorMessages.Insert(29, NStr("en = 'An error occurred in event handler BeforeDeleteObject'; ru = 'Ошибка в обработчике события ПередУдалениемОбъекта';vi = 'Lỗi trong hàm sự kiện BeforeDeleteObject';ro = 'A apărut o eroare în handler-ul evenimentului BeforeDeleteObject'"));
+Translations: {ru=Ошибка в обработчике события ПередУдалениемОбъекта, vi=Lỗi trong hàm sự kiện BeforeDeleteObject, en=An error occurred in event handler BeforeDeleteObject, ro=A apărut o eroare în handler-ul evenimentului BeforeDeleteObject}
+
+Original String: 	ErrorMessages.Insert(31, NStr("en = 'An error occurred in event handler BeforeProcessExportRule'; ru = 'Ошибка в обработчике события ПередОбработкойПравилаВыгрузки';vi = 'Lỗi trong hàm sự kiện BeforeProcessExportRule';ro = 'A apărut o eroare handler-ul evenimentului BeforeProcessExportRule'"));
+Translations: {ru=Ошибка в обработчике события ПередОбработкойПравилаВыгрузки, vi=Lỗi trong hàm sự kiện BeforeProcessExportRule, en=An error occurred in event handler BeforeProcessExportRule, ro=A apărut o eroare handler-ul evenimentului BeforeProcessExportRule}
+
+Original String: 	ErrorMessages.Insert(32, NStr("en = 'An error occurred in event handler AfterDumpRuleProcessing'; ru = 'Ошибка в обработчике события ПослеОбработкиПравилаВыгрузки';vi = 'Lỗi trong hàm sự kiện AfterDumpRuleProcessing';ro = 'A apărut o eroare în handler-ul evenimentului AfterDumpRuleProcessing'"));
+Translations: {ru=Ошибка в обработчике события ПослеОбработкиПравилаВыгрузки, vi=Lỗi trong hàm sự kiện AfterDumpRuleProcessing, en=An error occurred in event handler AfterDumpRuleProcessing, ro=A apărut o eroare în handler-ul evenimentului AfterDumpRuleProcessing}
+
+Original String: 	ErrorMessages.Insert(33, NStr("en = 'An error occurred in event handler BeforeObjectExport'; ru = 'Ошибка в обработчике события ПередВыгрузкойОбъекта';vi = 'Lỗi trong hàm sự kiện BeforeObjectExport';ro = 'A apărut o eroare în handler-ul evenimentului BeforeObjectExport'"));
+Translations: {ru=Ошибка в обработчике события ПередВыгрузкойОбъекта, vi=Lỗi trong hàm sự kiện BeforeObjectExport, en=An error occurred in event handler BeforeObjectExport, ro=A apărut o eroare în handler-ul evenimentului BeforeObjectExport}
+
+Original String: 	ErrorMessages.Insert(34, NStr("en = 'An error occurred in event handler AfterObjectExport'; ru = 'Ошибка в обработчике события ПослеВыгрузкиОбъекта';vi = 'Lỗi trong hàm sự kiện AfterObjectExport';ro = 'A apărut o eroare în handler-ul evenimentului AfterObjectExport'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузкиОбъекта, vi=Lỗi trong hàm sự kiện AfterObjectExport, en=An error occurred in event handler AfterObjectExport, ro=A apărut o eroare în handler-ul evenimentului AfterObjectExport}
+
+Original String: 	ErrorMessages.Insert(41, NStr("en = 'An error occurred in event handler BeforeObjectExport'; ru = 'Ошибка в обработчике события ПередВыгрузкойОбъекта';vi = 'Lỗi trong hàm sự kiện BeforeObjectExport';ro = 'A apărut o eroare în handler-ul evenimentului BeforeObjectExport'"));
+Translations: {ru=Ошибка в обработчике события ПередВыгрузкойОбъекта, vi=Lỗi trong hàm sự kiện BeforeObjectExport, en=An error occurred in event handler BeforeObjectExport, ro=A apărut o eroare în handler-ul evenimentului BeforeObjectExport}
+
+Original String: 	ErrorMessages.Insert(42, NStr("en = 'An error occurred in event handler OnObjectExport'; ru = 'Ошибка в обработчике события ПриВыгрузкеОбъекта';vi = 'Lỗi trong hàm sự kiện OnObjectExport';ro = 'A apărut o eroare în handler-ul evenimentului OnObjectExport'"));
+Translations: {ru=Ошибка в обработчике события ПриВыгрузкеОбъекта, vi=Lỗi trong hàm sự kiện OnObjectExport, en=An error occurred in event handler OnObjectExport, ro=A apărut o eroare în handler-ul evenimentului OnObjectExport}
+
+Original String: 	ErrorMessages.Insert(43, NStr("en = 'An error occurred in event handler AfterObjectExport'; ru = 'Ошибка в обработчике события ПослеВыгрузкиОбъекта';vi = 'Lỗi trong hàm sự kiện AfterObjectExport';ro = 'A apărut o eroare în handler-ul evenimentului AfterObjectExport'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузкиОбъекта, vi=Lỗi trong hàm sự kiện AfterObjectExport, en=An error occurred in event handler AfterObjectExport, ro=A apărut o eroare în handler-ul evenimentului AfterObjectExport}
+
+Original String: 	ErrorMessages.Insert(45, NStr("en = 'Object conversion rule is not found'; ru = 'Не найдено правило конвертации объектов';vi = 'Không tìm thấy quy tắc chuyển đổi đối tượng';ro = 'Regula conversiei obiectului nu a fost găsită'"));
+Translations: {ru=Не найдено правило конвертации объектов, vi=Không tìm thấy quy tắc chuyển đổi đối tượng, en=Object conversion rule is not found, ro=Regula conversiei obiectului nu a fost găsită}
+
+Original String: 	ErrorMessages.Insert(48, NStr("en = 'An error occurred in event handler BeforeExportProcessor of the property group'; ru = 'Ошибка в обработчике события ПередОбработкойВыгрузки группы свойств';vi = 'Lỗi trong hàm sự kiện BeforeExportProcessor nhóm thuộc tính';ro = 'A apărut o eroare în handler-ul evenimentului BeforeExportProcessor din grupul de proprietăți'"));
+Translations: {ru=Ошибка в обработчике события ПередОбработкойВыгрузки группы свойств, vi=Lỗi trong hàm sự kiện BeforeExportProcessor nhóm thuộc tính, en=An error occurred in event handler BeforeExportProcessor of the property group, ro=A apărut o eroare în handler-ul evenimentului BeforeExportProcessor din grupul de proprietăți}
+
+Original String: 	ErrorMessages.Insert(49, NStr("en = 'An error occurred in event handler AfterExportProcessor of the property group'; ru = 'Ошибка в обработчике события ПослеОбработкиВыгрузки группы свойств';vi = 'Lỗi trong hàm sự kiện AfterExportProcessor nhóm thuộc tính';ro = 'A apărut o eroare în handler-ul evenimentului AfterExportProcessor din grupul de proprietate'"));
+Translations: {ru=Ошибка в обработчике события ПослеОбработкиВыгрузки группы свойств, vi=Lỗi trong hàm sự kiện AfterExportProcessor nhóm thuộc tính, en=An error occurred in event handler AfterExportProcessor of the property group, ro=A apărut o eroare în handler-ul evenimentului AfterExportProcessor din grupul de proprietate}
+
+Original String: 	ErrorMessages.Insert(50, NStr("en = 'Error in event handler BeforeExport (of collection object)'; ru = 'Ошибка в обработчике события ПередВыгрузкой (объекта коллекции)';vi = 'Lỗi trong hàm sự kiện BeforeExport (đối tượng tập hợp)';ro = 'Eroare la handler-ul de evenimente BeforeExport (a obiectului de colectare)'"));
+Translations: {ru=Ошибка в обработчике события ПередВыгрузкой (объекта коллекции), vi=Lỗi trong hàm sự kiện BeforeExport (đối tượng tập hợp), en=Error in event handler BeforeExport (of collection object), ro=Eroare la handler-ul de evenimente BeforeExport (a obiectului de colectare)}
+
+Original String: 	ErrorMessages.Insert(51, NStr("en = 'Error in event handler OnExport (of collection object)'; ru = 'Ошибка в обработчике события ПриВыгрузке (объекта коллекции)';vi = 'Lỗi trong hàm sự kiện OnExport (đối tượng tập hợp)';ro = 'Eroare la handler-ul de evenimente OnExport (a obiectului de colectare)'"));
+Translations: {ru=Ошибка в обработчике события ПриВыгрузке (объекта коллекции), vi=Lỗi trong hàm sự kiện OnExport (đối tượng tập hợp), en=Error in event handler OnExport (of collection object), ro=Eroare la handler-ul de evenimente OnExport (a obiectului de colectare)}
+
+Original String: 	ErrorMessages.Insert(52, NStr("en = 'Error in event handler AfterExport (of collection object)'; ru = 'Ошибка в обработчике события ПослеВыгрузки (объекта коллекции)';vi = 'Lỗi trong hàm sự kiện AfterExport (đối tượng tập hợp)';ro = 'Eroare la handler-ul de evenimente AfterExport (a obiectului de colectare)'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузки (объекта коллекции), vi=Lỗi trong hàm sự kiện AfterExport (đối tượng tập hợp), en=Error in event handler AfterExport (of collection object), ro=Eroare la handler-ul de evenimente AfterExport (a obiectului de colectare)}
+
+Original String: 	ErrorMessages.Insert(53, NStr("en = 'An error occurred in global event handler BeforeObjectImporting (conversion)'; ru = 'Ошибка в глобальном обработчике события ПередЗагрузкойОбъекта (конвертация)';vi = 'Lỗi trong hàm sự kiện toàn cục BeforeObjectImporting (chuyển đổi)';ro = 'A apărut o eroare în handler-ul global a evenimentului BeforeObjectImporting (conversie)'"));
+Translations: {ru=Ошибка в глобальном обработчике события ПередЗагрузкойОбъекта (конвертация), vi=Lỗi trong hàm sự kiện toàn cục BeforeObjectImporting (chuyển đổi), en=An error occurred in global event handler BeforeObjectImporting (conversion), ro=A apărut o eroare în handler-ul global a evenimentului BeforeObjectImporting (conversie)}
+
+Original String: 	ErrorMessages.Insert(54, NStr("en = 'An error occurred in global event handler AfterObjectImport (conversion)'; ru = 'Ошибка в глобальном обработчике события ПослеЗагрузкиОбъекта (конвертация)';vi = 'Lỗi trong hàm sự kiện toàn cục AfterObjectImport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul global a evenimentului AfterObjectImport (conversie)'"));
+Translations: {ru=Ошибка в глобальном обработчике события ПослеЗагрузкиОбъекта (конвертация), vi=Lỗi trong hàm sự kiện toàn cục AfterObjectImport (chuyển đổi), en=An error occurred in global event handler AfterObjectImport (conversion), ro=A apărut o eroare în handler-ul global a evenimentului AfterObjectImport (conversie)}
+
+Original String: 	ErrorMessages.Insert(55, NStr("en = 'An error occurred in event handler BeforeExport (properties)'; ru = 'Ошибка в обработчике события ПередВыгрузкой (свойства)';vi = 'Lỗi trong hàm sự kiện BeforeExport (thuộc tính)';ro = 'A apărut o eroare în handler-ul evenimentului BeforeExport (proprietăți)'"));
+Translations: {ru=Ошибка в обработчике события ПередВыгрузкой (свойства), vi=Lỗi trong hàm sự kiện BeforeExport (thuộc tính), en=An error occurred in event handler BeforeExport (properties), ro=A apărut o eroare în handler-ul evenimentului BeforeExport (proprietăți)}
+
+Original String: 	ErrorMessages.Insert(56, NStr("en = 'An error occurred in event handler OnExport (properties)'; ru = 'Ошибка в обработчике события ПриВыгрузке (свойства)';vi = 'Lỗi trong hàm sự kiện OnExport (thuộc tính)';ro = 'A apărut o eroare în handler-ul evenimentului OnExport (proprietăți)'"));
+Translations: {ru=Ошибка в обработчике события ПриВыгрузке (свойства), vi=Lỗi trong hàm sự kiện OnExport (thuộc tính), en=An error occurred in event handler OnExport (properties), ro=A apărut o eroare în handler-ul evenimentului OnExport (proprietăți)}
+
+Original String: 	ErrorMessages.Insert(57, NStr("en = 'An error occurred in event handler AfterExport (properties)'; ru = 'Ошибка в обработчике события ПослеВыгрузки (свойства)';vi = 'Lỗi trong hàm sự kiện AfterExport (thuộc tính)';ro = 'A apărut o eroare în handler-ul evenimentului AfterExport (proprietăți)'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузки (свойства), vi=Lỗi trong hàm sự kiện AfterExport (thuộc tính), en=An error occurred in event handler AfterExport (properties), ro=A apărut o eroare în handler-ul evenimentului AfterExport (proprietăți)}
+
+Original String: 	ErrorMessages.Insert(62, NStr("en = 'An error occurred in event handler BeforeDataExport (conversion)'; ru = 'Ошибка в обработчике события ПередВыгрузкойДанных (конвертация)';vi = 'Lỗi trong hàm sự kiện BeforeDataExport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului BeforeDataExport (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПередВыгрузкойДанных (конвертация), vi=Lỗi trong hàm sự kiện BeforeDataExport (chuyển đổi), en=An error occurred in event handler BeforeDataExport (conversion), ro=A apărut o eroare în handler-ul evenimentului BeforeDataExport (conversie)}
+
+Original String: 	ErrorMessages.Insert(63, NStr("en = 'An error occurred in event handler AfterDataExport (conversion)'; ru = 'Ошибка в обработчике события ПослеВыгрузкиДанных (конвертация)';vi = 'Lỗi trong hàm sự kiện AfterDataExport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului AfterDataExport (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузкиДанных (конвертация), vi=Lỗi trong hàm sự kiện AfterDataExport (chuyển đổi), en=An error occurred in event handler AfterDataExport (conversion), ro=A apărut o eroare în handler-ul evenimentului AfterDataExport (conversie)}
+
+Original String: 	ErrorMessages.Insert(64, NStr("en = 'An error occurred in global event handler BeforeObjectConversion (conversion)'; ru = 'Ошибка в глобальном обработчике события ПередКонвертациейОбъекта (конвертация)';vi = 'Lỗi trong hàm sự kiện toàn cục BeforeObjectConversion (chuyển đổi)';ro = 'A apărut o eroare în handler-ul global a evenimentului BeforeObjectConversion (conversie)'"));
+Translations: {ru=Ошибка в глобальном обработчике события ПередКонвертациейОбъекта (конвертация), vi=Lỗi trong hàm sự kiện toàn cục BeforeObjectConversion (chuyển đổi), en=An error occurred in global event handler BeforeObjectConversion (conversion), ro=A apărut o eroare în handler-ul global a evenimentului BeforeObjectConversion (conversie)}
+
+Original String: 	ErrorMessages.Insert(65, NStr("en = 'An error occurred in global event handler BeforeObjectExport (conversion)'; ru = 'Ошибка в глобальном обработчике события ПередВыгрузкойОбъекта (конвертация)';vi = 'Lỗi trong hàm sự kiện toàn cục BeforeObjectExport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul global a evenimentului BeforeObjectExport (conversie)'"));
+Translations: {ru=Ошибка в глобальном обработчике события ПередВыгрузкойОбъекта (конвертация), vi=Lỗi trong hàm sự kiện toàn cục BeforeObjectExport (chuyển đổi), en=An error occurred in global event handler BeforeObjectExport (conversion), ro=A apărut o eroare în handler-ul global a evenimentului BeforeObjectExport (conversie)}
+
+Original String: 	ErrorMessages.Insert(66, NStr("en = 'An error occurred when receiving a subordinate object collection from the incoming data'; ru = 'Ошибка получения коллекции подчиненных объектов из входящих данных';vi = 'Lỗi nhận tập hợp đối tượng trực thuộc từ dữ liệu đến';ro = 'A apărut o eroare la primirea unei colecții de obiecte subordonate din datele primite'"));
+Translations: {ru=Ошибка получения коллекции подчиненных объектов из входящих данных, vi=Lỗi nhận tập hợp đối tượng trực thuộc từ dữ liệu đến, en=An error occurred when receiving a subordinate object collection from the incoming data, ro=A apărut o eroare la primirea unei colecții de obiecte subordonate din datele primite}
+
+Original String: 	ErrorMessages.Insert(67, NStr("en = 'An error occurred when receiving the subordinate object properties from the incoming data'; ru = 'Ошибка получения свойства подчиненного объекта из входящих данных';vi = 'Lỗi nhận thuộc tính đối tượng trực thuộc từ dữ liệu đến';ro = 'A apărut o eroare la primirea proprietăților obiectului subordonat din datele primite'"));
+Translations: {ru=Ошибка получения свойства подчиненного объекта из входящих данных, vi=Lỗi nhận thuộc tính đối tượng trực thuộc từ dữ liệu đến, en=An error occurred when receiving the subordinate object properties from the incoming data, ro=A apărut o eroare la primirea proprietăților obiectului subordonat din datele primite}
+
+Original String: 	ErrorMessages.Insert(68, NStr("en = 'An error occurred when receiving the object properties from the incoming data'; ru = 'Ошибка получения свойства объекта из входящих данных';vi = 'Lỗi nhận thuộc tính đối tượng từ dữ liệu đến';ro = 'A apărut o eroare la primirea proprietăților obiectului din datele intrate'"));
+Translations: {ru=Ошибка получения свойства объекта из входящих данных, vi=Lỗi nhận thuộc tính đối tượng từ dữ liệu đến, en=An error occurred when receiving the object properties from the incoming data, ro=A apărut o eroare la primirea proprietăților obiectului din datele intrate}
+
+Original String: 	ErrorMessages.Insert(69, NStr("en = 'An error occurred in global event handler AfterObjectExport (conversion)'; ru = 'Ошибка в глобальном обработчике события ПослеВыгрузкиОбъекта (конвертация)';vi = 'Lỗi trong hàm sự kiện toàn cục AfterObjectExport (chuyển đổi)';ro = 'A apărut o eroare în handler-ul global a evenimentului AfterObjectExport (conversie)'"));
+Translations: {ru=Ошибка в глобальном обработчике события ПослеВыгрузкиОбъекта (конвертация), vi=Lỗi trong hàm sự kiện toàn cục AfterObjectExport (chuyển đổi), en=An error occurred in global event handler AfterObjectExport (conversion), ro=A apărut o eroare în handler-ul global a evenimentului AfterObjectExport (conversie)}
+
+Original String: 	ErrorMessages.Insert(71, NStr("en = 'Match for the Source value is not found'; ru = 'Не найдено соответствие для значения Источника';vi = 'Không tìm thấy sự tương ứng đối với giá trị Nguồn';ro = 'Coincidența pentru valoarea sursă nu a fost găsită'"));
+Translations: {ru=Не найдено соответствие для значения Источника, vi=Không tìm thấy sự tương ứng đối với giá trị Nguồn, en=Match for the Source value is not found, ro=Coincidența pentru valoarea sursă nu a fost găsită}
+
+Original String: 	ErrorMessages.Insert(72, NStr("en = 'An error occurred when exporting data for the exchange plan node'; ru = 'Ошибка при выгрузке данных для узла плана обмена';vi = 'Lỗi khi kết xuất dữ liệu đối với nút của sơ đồ trao đổi';ro = 'A apărut o eroare la exportul datelor pentru nodul planului de schimb'"));
+Translations: {ru=Ошибка при выгрузке данных для узла плана обмена, vi=Lỗi khi kết xuất dữ liệu đối với nút của sơ đồ trao đổi, en=An error occurred when exporting data for the exchange plan node, ro=A apărut o eroare la exportul datelor pentru nodul planului de schimb}
+
+Original String: 	ErrorMessages.Insert(73, NStr("en = 'An error occurred in event handler SearchFieldsSequence'; ru = 'Ошибка в обработчике события ПоследовательностьПолейПоиска';vi = 'Lỗi trong hàm sự kiện SearchFieldsSequence';ro = 'A apărut o eroare în handler-ul evenimentului SearchFieldsSequence'"));
+Translations: {ru=Ошибка в обработчике события ПоследовательностьПолейПоиска, vi=Lỗi trong hàm sự kiện SearchFieldsSequence, en=An error occurred in event handler SearchFieldsSequence, ro=A apărut o eroare în handler-ul evenimentului SearchFieldsSequence}
+
+Original String: 	ErrorMessages.Insert(74, NStr("en = 'Import exchange rules for data export again.'; ru = 'Необходимо перезагрузить правила обмена для выгрузки данных.';vi = 'Cần kết nhập lại quy tắc trao đổi để kết xuất dữ liệu.';ro = 'Importați din nou regulile de schimb pentru exportul de date.'"));
+Translations: {ru=Необходимо перезагрузить правила обмена для выгрузки данных., vi=Cần kết nhập lại quy tắc trao đổi để kết xuất dữ liệu., en=Import exchange rules for data export again., ro=Importați din nou regulile de schimb pentru exportul de date.}
+
+Original String: 	ErrorMessages.Insert(75, NStr("en = 'An error occurred in event handler AfterImportOfExchangeRules (conversion)'; ru = 'Ошибка в обработчике события ПослеЗагрузкиПравилОбмена (конвертация)';vi = 'Lỗi trong hàm sự kiện AfterImportOfExchangeRules (chuyển đổi)';ro = 'A apărut o eroare la handler-ul evenimentului AfterImportOfExchangeRules (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПослеЗагрузкиПравилОбмена (конвертация), vi=Lỗi trong hàm sự kiện AfterImportOfExchangeRules (chuyển đổi), en=An error occurred in event handler AfterImportOfExchangeRules (conversion), ro=A apărut o eroare la handler-ul evenimentului AfterImportOfExchangeRules (conversie)}
+
+Original String: 	ErrorMessages.Insert(76, NStr("en = 'An error occurred in event handler BeforeSendingUninstallInformation (conversion)'; ru = 'Ошибка в обработчике события ПередОтправкойИнформацииОбУдалении (конвертация)';vi = 'Lỗi trong hàm sự kiện BeforeSendingUninstallInformation (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului BeforeSendingUninstallInformation (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПередОтправкойИнформацииОбУдалении (конвертация), vi=Lỗi trong hàm sự kiện BeforeSendingUninstallInformation (chuyển đổi), en=An error occurred in event handler BeforeSendingUninstallInformation (conversion), ro=A apărut o eroare în handler-ul evenimentului BeforeSendingUninstallInformation (conversie)}
+
+Original String: 	ErrorMessages.Insert(77, NStr("en = 'An error occurred in event handler OnObtainingInformationAboutDeletion (conversion)'; ru = 'Ошибка в обработчике события ПриПолученииИнформацииОбУдалении (конвертация)';vi = 'Lỗi trong hàm sự kiện OnObtainingInformationAboutDeletion (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului OnObtainingInformationAboutDeletion (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПриПолученииИнформацииОбУдалении (конвертация), vi=Lỗi trong hàm sự kiện OnObtainingInformationAboutDeletion (chuyển đổi), en=An error occurred in event handler OnObtainingInformationAboutDeletion (conversion), ro=A apărut o eroare în handler-ul evenimentului OnObtainingInformationAboutDeletion (conversie)}
+
+Original String: 	ErrorMessages.Insert(78, NStr("en = 'An error occurred when executing the algorithm after import of the parameter values'; ru = 'Ошибка при выполнении алгоритма после загрузки значений параметров';vi = 'Lỗi khi thực hiện thuật toán sau khi kết nhập giá trị tham số';ro = 'A apărut o eroare la executarea algoritmului după importul valorilor parametrilor'"));
+Translations: {ru=Ошибка при выполнении алгоритма после загрузки значений параметров, vi=Lỗi khi thực hiện thuật toán sau khi kết nhập giá trị tham số, en=An error occurred when executing the algorithm after import of the parameter values, ro=A apărut o eroare la executarea algoritmului după importul valorilor parametrilor}
+
+Original String: 	ErrorMessages.Insert(79, NStr("en = 'An error occurred in event handler AfterObjectExportToFile'; ru = 'Ошибка в обработчике события ПослеВыгрузкиОбъектаВФайл';vi = 'Lỗi trong hàm sự kiện AfterObjectExportToFile';ro = 'A apărut o eroare în handler-ul evenimentului AfterObjectExportToFile'"));
+Translations: {ru=Ошибка в обработчике события ПослеВыгрузкиОбъектаВФайл, vi=Lỗi trong hàm sự kiện AfterObjectExportToFile, en=An error occurred in event handler AfterObjectExportToFile, ro=A apărut o eroare în handler-ul evenimentului AfterObjectExportToFile}
+
+Original String: 	ErrorMessages.Insert(83, NStr("en = 'An error occurred while accessing the object tabular section. The object tabular section cannot be changed.'; ru = 'Ошибка обращения к табличной части объекта. Табличная часть объекта не может быть изменена.';vi = 'Lỗi truy cập đến phần bảng đối tượng. Không thể thay đổi phần bảng đối tượng.';ro = 'A apărut o eroare la accesarea secțiunii tabulare a obiectului. Secțiunea tabulară a obiectului nu poate fi modificată.'"));
+Translations: {ru=Ошибка обращения к табличной части объекта. Табличная часть объекта не может быть изменена., vi=Lỗi truy cập đến phần bảng đối tượng. Không thể thay đổi phần bảng đối tượng., en=An error occurred while accessing the object tabular section. The object tabular section cannot be changed., ro=A apărut o eroare la accesarea secțiunii tabulare a obiectului. Secțiunea tabulară a obiectului nu poate fi modificată.}
+
+Original String: 	ErrorMessages.Insert(84, NStr("en = 'Collision of change closing dates.'; ru = 'Коллизия дат запрета изменения.';vi = 'Mâu thuẫn ngày cấm thay đổi.';ro = 'Coliziunea datei de închidere a modificării.'"));
+Translations: {ru=Коллизия дат запрета изменения., vi=Mâu thuẫn ngày cấm thay đổi., en=Collision of change closing dates., ro=Coliziunea datei de închidere a modificării.}
+
+Original String: 	ErrorMessages.Insert(173, NStr("en = 'An error of the exchange node lock occurred. Maybe, data synchronization is already in progress'; ru = 'Ошибка блокировки узла обмена. Возможно синхронизация данных уже выполняется';vi = 'Lỗi phong tỏa nút trao đổi. Có thể, đã thực hiện đồng bộ hóa dữ liệu';ro = 'A apărut o eroare a blocării nodului de schimb. Poate că sincronizarea datelor este deja în curs'"));
+Translations: {ru=Ошибка блокировки узла обмена. Возможно синхронизация данных уже выполняется, vi=Lỗi phong tỏa nút trao đổi. Có thể, đã thực hiện đồng bộ hóa dữ liệu, en=An error of the exchange node lock occurred. Maybe, data synchronization is already in progress, ro=A apărut o eroare a blocării nodului de schimb. Poate că sincronizarea datelor este deja în curs}
+
+Original String: 	ErrorMessages.Insert(174, NStr("en = 'Exchange message was previously received'; ru = 'Сообщение обмена было принято ранее';vi = 'Đã tiếp nhận thông điệp trao đổi trước đây';ro = 'Mesajul de schimb a fost primit anterior'"));
+Translations: {ru=Сообщение обмена было принято ранее, vi=Đã tiếp nhận thông điệp trao đổi trước đây, en=Exchange message was previously received, ro=Mesajul de schimb a fost primit anterior}
+
+Original String: 	ErrorMessages.Insert(175, NStr("en = 'An error occurred in event handler BeforeModifiedObjectsReceiving (conversion)'; ru = 'Ошибка в обработчике события ПередПолучениемИзмененныхОбъектов (конвертация)';vi = 'Lỗi trong hàm sự kiện BeforeModifiedObjectsReceiving (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului BeforeModifiedObjectsReceiving (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПередПолучениемИзмененныхОбъектов (конвертация), vi=Lỗi trong hàm sự kiện BeforeModifiedObjectsReceiving (chuyển đổi), en=An error occurred in event handler BeforeModifiedObjectsReceiving (conversion), ro=A apărut o eroare în handler-ul evenimentului BeforeModifiedObjectsReceiving (conversie)}
+
+Original String: 	ErrorMessages.Insert(176, NStr("en = 'An error occurred in event handler AfterGettingInformationAboutExchangeNodes (conversion)'; ru = 'Ошибка в обработчике события ПослеПолученияИнформацииОбУзлахОбмена (конвертация)';vi = 'Lỗi trong hàm sự kiện AfterGettingInformationAboutExchangeNodes (chuyển đổi)';ro = 'A apărut o eroare în handler-ul evenimentului AfterGettingInformationAboutExchangeNodes (conversie)'"));
+Translations: {ru=Ошибка в обработчике события ПослеПолученияИнформацииОбУзлахОбмена (конвертация), vi=Lỗi trong hàm sự kiện AfterGettingInformationAboutExchangeNodes (chuyển đổi), en=An error occurred in event handler AfterGettingInformationAboutExchangeNodes (conversion), ro=A apărut o eroare în handler-ul evenimentului AfterGettingInformationAboutExchangeNodes (conversie)}
+
+Original String: 	ErrorMessages.Insert(1000, NStr("en = 'An error occurred when creating a temporary file of data export'; ru = 'Ошибка при создании временного файла выгрузки данных';vi = 'Lỗi khi tạo tệp tạm thời kết xuất dữ liệu';ro = 'A apărut o eroare la crearea unui fișier temporar de export de date'"));
+Translations: {ru=Ошибка при создании временного файла выгрузки данных, vi=Lỗi khi tạo tệp tạm thời kết xuất dữ liệu, en=An error occurred when creating a temporary file of data export, ro=A apărut o eroare la crearea unui fișier temporar de export de date}
+
