@@ -13,9 +13,15 @@ public class FileProcessingService {
 
     public List<String> processFileFromStream(InputStream inputStream) {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
-            return reader.lines()
+            List<String> lines = reader.lines()
                     .filter(line -> line.contains("NStr"))
                     .collect(Collectors.toList());
+
+            if (lines.isEmpty()) {
+                throw new RuntimeException("Файл не содержит строк с NStr.");
+            }
+
+            return lines;
         } catch (Exception e) {
             throw new RuntimeException("Ошибка при обработке файла: " + e.getMessage(), e);
         }

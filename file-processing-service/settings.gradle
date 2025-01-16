@@ -1,1 +1,3 @@
-rootProject.name = 'file-processing-service'
+rootProject.name = 'FileServiceHub'
+
+include 'file-processing-service'

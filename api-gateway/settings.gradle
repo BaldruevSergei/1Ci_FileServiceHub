@@ -1,1 +1,3 @@
-rootProject.name = 'api-gateway'
+rootProject.name = 'FileServiceHub'
+
+include 'api-gateway'
